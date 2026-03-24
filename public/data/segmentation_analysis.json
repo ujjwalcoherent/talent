@@ -1,62 +1,55 @@
 {
   "Global": {
-    "By Type": {
-      "Sub-Normothermic Perfusion (20–34°C)": {},
-      "Warm or Normothermic Perfusion (35–37°C)": {}
+    "By Recruitment Type": {
+      "Permanent Hiring": {},
+      "Temporary Staffing": {},
+      "Temp-to-Perm Hiring": {},
+      "Locum Tenens Placement": {},
+      "Others (Project-based Recruitment, etc.)": {}
     },
-    "By Organ Type": {
-      "Liver": {},
-      "Heart": {},
-      "Lung": {},
-      "Kidney": {},
-      "Others (Pancreas, Small bowel / Intestine, Composite Tissues / Limb Perfusion (emerging use cases))": {}
+    "By Position Type Recruited": {
+      "Clinical Roles": {
+        "General Dentists": {},
+        "Specialist Dentists": {},
+        "Dental Hygienists": {},
+        "Others (Dental Assistants, etc.)": {}
+      },
+      "Administrative / Non-Clinical Roles": {
+        "Front Desk / Reception Staff": {},
+        "Patient Scheduling Coordinators": {},
+        "Insurance Verification Staff": {},
+        "Others (Treatment Coordinators, etc.)": {}
+      },
+      "Leadership Roles": {}
     },
-    "Application / Use Case": {
-      "Organ Preservation": {},
-      "Viability Assessment": {},
-      "Physiologic Transport": {},
-      "Reconditioning Marginal Organs": {},
-      "Others (Research Use / Protocol development)": {}
+    "By Specialty Type": {
+      "General Dentistry": {},
+      "Orthodontics": {},
+      "Pediatric Dentistry": {},
+      "Others (Cosmetic Dentistry, etc.)": {}
     },
     "By End User": {
-      "Hospitals & Clinics": {},
-      "Specialty Clinic/Centers": {},
-      "Transplant Centers": {},
-      "Others (Research Institutes/Centers, Organ Procurement Organizations, etc.)": {}
+      "Independent Dental Clinics": {},
+      "Oral & Maxillofacial Surgery Centers": {},
+      "Cosmetic / Aesthetic Dentistry Clinics": {},
+      "Hospital-based Dental Departments": {},
+      "Others (Community Dental Health Centers, etc.)": {}
     },
     "By Region": {
-      "North America": {
-        "U.S.": {},
-        "Canada": {}
-      },
-      "Europe": {
-        "U.K.": {},
-        "Germany": {},
-        "Italy": {},
-        "France": {},
-        "Spain": {},
-        "Russia": {},
-        "Rest of Europe": {}
-      },
-      "Asia Pacific": {
-        "China": {},
-        "India": {},
-        "Japan": {},
-        "South Korea": {},
-        "ASEAN": {},
-        "Australia": {},
-        "Rest of Asia Pacific": {}
-      },
-      "Latin America": {
-        "Brazil": {},
-        "Argentina": {},
-        "Mexico": {},
-        "Rest of Latin America": {}
-      },
-      "Middle East & Africa": {
-        "GCC": {},
-        "South Africa": {},
-        "Rest of Middle East & Africa": {}
+      "WEST U.S.": {
+        "Alaska": {},
+        "Arizona": {},
+        "California": {},
+        "Colorado": {},
+        "Hawaii": {},
+        "Idaho": {},
+        "Montana": {},
+        "Nevada": {},
+        "New Mexico": {},
+        "Oregon": {},
+        "Utah": {},
+        "Washington": {},
+        "Wyoming": {}
       }
     }
   }
