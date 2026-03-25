@@ -188,7 +188,7 @@ export default function DashboardPage() {
           {/* Logo on the left */}
           <div className="flex-shrink-0">
             <Image 
-              src="/Screenshot 2026-03-11 135749.png" 
+              src="/wmr-logo.png" 
               alt="WMR Market Insights Logo" 
               width={150} 
               height={60}
